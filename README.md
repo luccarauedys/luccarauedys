@@ -1,16 +1,41 @@
-### Hi there 👋
+# 👋 Hi, there! I'm Lucca Rauédys. 
 
-<!--
-**luccarauedys/luccarauedys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>About me</h3>
 
-Here are some ideas to get you started:
+- 💙 I'm passionate about programming and graphic design.
+- 📚 I'm currently in a Full Stack Web Development Bootcamp at <a href="https://www.driven.com.br/">Driven Education.</a>
+- 💻 I'm looking forward to learn more day by day and improve people's lives through useful and visually pleasing websites.
+- 🏳️‍⚧️ Pronouns: he/him.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>GitHub Stats</h3>
+
+<div>
+  <a href="https://github.com/luccarauedys">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarauedys&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luccarauedys&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+</div>
+
+<h3>Technologies</h3>
+
+<img height="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="40" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img height="40" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img height="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+<h3>Contact me</h3> 
+
+<div align="left">
+  <a href="mailto:luccarauedys@outlook.com">
+    <img alt="Lucca's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/devluccarauedys/">
+    <img alt="Lucca's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  
+  <a href="https://www.instagram.com/luccarauedys">
+    <img alt="Lucca's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
