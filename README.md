@@ -9,7 +9,7 @@
 
 <h3>GitHub Stats</h3>
 
-<div>
+<div align="left">
   <a href="https://github.com/luccarauedys">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarauedys&layout=compact&langs_count=7&theme=gotham"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luccarauedys&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
