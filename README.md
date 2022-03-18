@@ -2,7 +2,7 @@
 
 <h3>About me</h3>
 
-- 💙 I'm passionate about programming and graphic design.
+- 💙 I'm passionate about programming.
 - 📚 I'm currently in a Full Stack Web Development Bootcamp at <a href="https://www.driven.com.br/">Driven Education.</a>
 - 💻 I'm looking forward to learn more day by day and improve people's lives through useful and visually pleasing websites.
 - 🏳️‍⚧️ Pronouns: he/him.
