@@ -3,8 +3,8 @@
 <h3>About me</h3>
 
 - 💙 I'm passionate about programming.
-- 📚 I'm in a Full Stack Web Development Bootcamp at <a href="https://www.driven.com.br/">Driven Education.</a>
-- 💻 I am currently learning Node JS.
+- 💻 I'm in a Full Stack Web Development Bootcamp at <a href="https://www.driven.com.br/">Driven Education.</a>
+- 📚 I am currently learning Node JS.
 - 🏳️‍⚧️ Pronouns: he/him.
 
 <h3>GitHub Stats</h3>
