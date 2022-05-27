@@ -4,7 +4,7 @@
 
 - 💙 I'm passionate about programming.
 - 💻 I'm in a Full Stack Web Development Bootcamp at <a href="https://www.driven.com.br/">Driven Education.</a>
-- 📚 I am currently learning Node JS.
+- 📚 I am currently learning Postgres.
 - 🏳️‍⚧️ Pronouns: he/him.
 
 <h3>GitHub Stats</h3>
@@ -23,7 +23,9 @@
 <img height="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
+<img height="40" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="40" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+                    
 <h3>Contact me</h3> 
 
 <div align="left">
