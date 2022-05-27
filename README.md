@@ -4,7 +4,7 @@
 
 - 💙 I'm passionate about programming and the learning process.
 - 💻 I'm in a Full Stack Web Development Bootcamp at <a href="https://www.driven.com.br/">Driven Education.</a>
-- 📚 Currently learning Postgres.
+- 📚 Currently learning SQL.
 - 🏳️‍⚧️ Pronouns: he/him.
 
 <h3>GitHub Stats</h3>
